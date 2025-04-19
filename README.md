@@ -2,7 +2,7 @@
 
 **Room:** [Packets & Frames — TryHackMe]((https://tryhackme.com/room/packetsframes))
 **Status:** ✅ Completed  
-**Date:** 19 April 2025
+**Date:** *(19 April 2025)*
 
 ### 🎯 Objective
 To learn how data is transmitted across networks using packets and frames, understand how the TCP/IP model works (including the three-way handshake), compare TCP and UDP protocols, and explore the use of ports and common network services.
